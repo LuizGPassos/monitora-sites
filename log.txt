@@ -1,0 +1,16 @@
+10/09/2023 22:50:04 https://random-status-code.herokuapp.com Online: false
+10/09/2023 22:50:05 https://alura.com.br Online: true
+10/09/2023 22:50:06 https://poggers.com Online: true
+10/09/2023 22:50:06 https://facebook.com Online: true
+10/09/2023 22:50:12 https://random-status-code.herokuapp.com Online: false
+10/09/2023 22:50:12 https://alura.com.br Online: true
+10/09/2023 22:50:12 https://poggers.com Online: true
+10/09/2023 22:50:13 https://facebook.com Online: true
+10/09/2023 22:50:19 https://random-status-code.herokuapp.com Online: false
+10/09/2023 22:50:19 https://alura.com.br Online: true
+10/09/2023 22:50:19 https://poggers.com Online: true
+10/09/2023 22:50:20 https://facebook.com Online: true
+10/09/2023 22:50:25 https://random-status-code.herokuapp.com Online: false
+10/09/2023 22:50:26 https://alura.com.br Online: true
+10/09/2023 22:50:26 https://poggers.com Online: true
+10/09/2023 22:50:26 https://facebook.com Online: true
